@@ -1,0 +1,3 @@
+- **About / Credits from the header.** Clicking the title block (*NOVA LAUNCHER* and its subtitle) opens the About / Credits window; the hand cursor and the tooltip *About / Credits* tell so (the shield still opens the website; if the window is already open it is brought to the front).
+- **The invitation text.** The support message of the About window is shorter and warmer, and the address is now a **Buy me a coffee** button.
+- Minor version: it gathers the DCS Management work of 2.2.2 to 2.2.12 (Clean DCS, cleaning after updates and automatic cleaning, Recycle Bin for your own material, "in use" decided per DCS instance, Repair DCS, fixed answers for the DCS launcher and the Normal / VR mode, and the layout of the tab). `RELEASE_TEXT.md` describes them for the release.
