@@ -1,0 +1,1 @@
+- Release version: gathers 2.3.1 - 2.3.26 (CPU Tuner with measured diagnosis, Check my PC, first-start paths, movable settings folder, dialogs that come to the front, removal of the old DCS optimizations). No code change besides the version.
